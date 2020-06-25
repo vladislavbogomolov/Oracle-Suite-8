@@ -5,11 +5,16 @@
   "license": "proprietary",
   "authors": [
     {
-      "name": "vladislavbogomolov",
-      "email": "email@example.com"
+      "name": "Vladislav Bogomolov",
+      "email": "bogomolov.vlad@gmail.com"
     }
   ],
   "require": {
     
+  },
+  "autoload": {
+    "psr-4": {
+      "Suite8\\": "src"
+    }
   }
 }
