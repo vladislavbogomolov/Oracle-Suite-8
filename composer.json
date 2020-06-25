@@ -1,5 +1,5 @@
 {
-  "name": "vladislavbogomolov/Oracle-Suite-8",
+  "name": "vladislavbogomolov/oracle-suite-8",
   "description": "Laravel package for use Oracle Suite 8 XML Interface",
   "minimum-stability": "stable",
   "license": "proprietary",
